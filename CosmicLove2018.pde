@@ -3,7 +3,7 @@ This is a silly little conceptual game I originally created for the 'Introductio
 
 I created the physics of the hearts with a particle system based on the Processing vector tutorial found at https://www.processing.org/tutorials/pvector/
 
-To run the code, install Processing 3, copy files into your Processing sketch folder, and press run.  
+To run the code, install Processing 3, copy files into a new directory titled "CosmicLove2018" in your Processing sketch folder, open CosmicLove2018.pde in Processing, and press run.  
 
 Made with Processing (www.processing.org). 
 
