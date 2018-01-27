@@ -1,5 +1,5 @@
 /*
-This is a little conceptual game I originally created for the 'Introduction to Programming' course at Media Technology at Leiden University in 2011-2012
+This is a silly little conceptual game I originally created for the 'Introduction to Programming' course at Media Technology at Leiden University in 2011-2012
 
 I created the physics of the hearts with a particle system based on the Processing vector tutorial found at https://www.processing.org/tutorials/pvector/
 
